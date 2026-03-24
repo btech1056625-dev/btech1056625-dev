@@ -77,8 +77,8 @@ A cloud-based task management application using AWS services like **Lambda**, **
 ### 2. Full Stack App Deployment on Elastic Beanstalk
 Deployed a full stack application using **AWS Elastic Beanstalk**, focusing on hosting, environment setup, and deployment workflow.
 
-### 3. Cloud Resource Tracker
-A project built with **PHP, MySQL, Cognito, and AWS services** to manage and track cloud resources.
+### 3. Silent Shield System
+A project built with **Node.js, MySQL , Python , FastAPI, Redis** a ML based authorised system an alternative of captcha.
 
 ---
 
@@ -94,13 +94,13 @@ A project built with **PHP, MySQL, Cognito, and AWS services** to manage and tra
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/btech1056625-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:btech10566.25@bitmesra.ac.in">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="[https://instagram.com/your_instagram_username](https://www.instagram.com/bhavya44201/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>

@@ -106,7 +106,7 @@
     <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="mailto:btech10556.25@bitmesra.ac.in">
+  <a href="mailto:btech10566.25@bitmesra.ac.in">
     <img src="https://img.shields.io/badge/College_Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 

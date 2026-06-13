@@ -40,18 +40,22 @@ I build REST APIs, backend systems, and work with relational databases focusing 
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,terraform,ansible" />
+</p>
+
+### 📊 Observability & Monitoring Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-3F51B5?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-I actively work with **containerized environments, Kubernetes orchestration, and cloud infrastructure**, building and deploying production-style systems using **Infrastructure as Code (Terraform)**.
+---
+
+I actively work with **containerized environments, Kubernetes orchestration, Infrastructure as Code (Terraform), configuration automation (Ansible), and full observability stacks (Prometheus, Grafana, Loki)**.
 
 ---
 
@@ -66,7 +70,8 @@ I actively work with **containerized environments, Kubernetes orchestration, and
 - Docker containerization
 - Kubernetes (Kind clusters, deployments, services, ingress, observability stack)
 - AWS services (EC2, S3, Lambda, API Gateway, RDS)
-- Terraform (currently learning – IaC, modules, Helm integration)
+- Terraform (Infrastructure as Code, modules, Helm integration)
+- Ansible (basic configuration automation)
 
 ---
 
@@ -104,12 +109,12 @@ I actively work with **containerized environments, Kubernetes orchestration, and
 
 | Project | Description |
 |----------|-------------|
-| **Terraform Kubernetes Observability Platform** | End-to-end DevOps infrastructure using Terraform, Kubernetes, Helm, Prometheus, Grafana, Loki, and GitHub Actions. Implements observability (metrics + logs), modular IaC design, and CI validation pipelines. |
-| **YouTube + Twitter Integration Platform (Major Project)** | Full-stack system integrating YouTube and Twitter APIs to manage and process social/video content streams. Focused on API orchestration, backend architecture, authentication, and scalable data handling. |
-| **Silent Shield** | Security-focused backend and DevOps project emphasizing secure API design, authentication workflows, and infrastructure-aware system design. |
-| **3-Tier Docker Application** | Containerized full-stack application demonstrating frontend, backend, and database separation with Docker-based deployment architecture. |
-| **Kubernetes Practice Cluster** | Local Kubernetes environment using Kind to explore deployments, services, ingress, and cluster networking fundamentals. |
-| **Backend Learning Projects** | Collection of REST APIs and backend systems focused on scalability, authentication, database design, and clean architecture. |
+| **Terraform Kubernetes Observability Platform** | End-to-end DevOps infrastructure using 🟣 Terraform, ☸️ Kubernetes, 📊 Prometheus, 📈 Grafana, 📜 Loki, and GitHub Actions. Implements observability, modular IaC design, and CI pipelines. |
+| **YouTube + Twitter Integration Platform (Major Project)** | Full-stack system integrating YouTube and Twitter APIs for content ingestion and processing with scalable backend architecture. |
+| **Silent Shield** | Security-focused backend project emphasizing authentication, API security, and infrastructure-aware design. |
+| **3-Tier Docker Application** | Containerized architecture demonstrating frontend, backend, and database separation using Docker. |
+| **Kubernetes Practice Cluster** | Local Kubernetes setup using Kind to explore deployments, services, ingress, and networking. |
+| **Backend Learning Projects** | REST APIs and backend systems focusing on scalability, authentication, and system design. |
 
 ---
 

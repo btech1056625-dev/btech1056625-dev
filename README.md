@@ -6,16 +6,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=CSE+Undergraduate+at+BIT+Mesra;Passionate+about+DevOps+Backend+Cloud+and+Linux;Exploring+Cloud-Native+Technologies+and+Real-World+Deployments;Currently+Learning+Kubernetes+Backend+and+System+Design"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=CSE+Undergraduate+at+BIT+Mesra;DevOps+%7C+Backend+%7C+Cloud+%7C+Linux+Enthusiast;Building+Cloud-Native+Systems+and+Kubernetes+Projects;Focused+on+Real-World+Infrastructure+and+Scalable+Systems"
     alt="Typing SVG"
   />
 </p>
 
+I am a **Computer Science undergraduate at BIT Mesra**, passionate about **DevOps, Backend Engineering, Cloud Infrastructure, and Linux systems**.
+
+I focus on building **real-world cloud-native systems using Kubernetes, Terraform, Docker, and AWS**, while continuously improving my understanding of **distributed systems and system design**.
+
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 🔗 Languages
+### 🔗 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" />
@@ -23,15 +27,17 @@
 
 ---
 
-## 🌐 Backend & Database
+### 🌐 Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
 </p>
 
+I build REST APIs, backend systems, and work with relational databases focusing on scalable and maintainable architecture.
+
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github" />
@@ -45,9 +51,11 @@
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </p>
 
+I actively work with **containerized environments, Kubernetes orchestration, and cloud infrastructure**, building and deploying production-style systems using **Infrastructure as Code (Terraform)**.
+
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -59,7 +67,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=btech1056625-dev&theme=tokyo-night" />
@@ -67,18 +75,20 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| Silent Shield | Security-focused project exploring backend and DevOps workflows |
-| 3-Tier Docker App | Containerized multi-tier application using Docker |
-| Kubernetes Practice Cluster | Local Kubernetes setup using Kind and kubectl |
-| Backend Learning Projects | Exploring REST APIs, databases, and scalable backend concepts |
+| **Terraform Kubernetes Observability Platform** | End-to-end DevOps infrastructure using Terraform, Kubernetes, Helm, Prometheus, Grafana, Loki, and GitHub Actions. Implements observability (metrics + logs), modular IaC design, and CI validation pipelines. |
+| **YouTube + Twitter Integration Platform (Major Project)** | Full-stack system integrating YouTube and Twitter APIs to manage and process social/video content streams. Focused on API orchestration, backend architecture, authentication, and scalable data handling. |
+| **Silent Shield** | Security-focused backend and DevOps project emphasizing secure API design, authentication workflows, and infrastructure-aware system design. |
+| **3-Tier Docker Application** | Containerized full-stack application demonstrating frontend, backend, and database separation with Docker-based deployment architecture. |
+| **Kubernetes Practice Cluster** | Local Kubernetes environment using Kind to explore deployments, services, ingress, and cluster networking fundamentals. |
+| **Backend Learning Projects** | Collection of REST APIs and backend systems focused on scalability, authentication, database design, and clean architecture. |
 
 ---
 
-# 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
 
@@ -94,7 +104,7 @@
 
 ---
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
 

@@ -55,6 +55,31 @@ I actively work with **containerized environments, Kubernetes orchestration, and
 
 ---
 
+## 🧠 Additional Core Skills (DevOps + Backend Foundation)
+
+### ☁️ DevOps & Cloud Engineering
+- Linux system administration & command line
+- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS, ports)
+- Shell scripting for automation
+- Git version control (branching, rebasing, workflows)
+- GitHub Actions CI/CD pipelines
+- Docker containerization
+- Kubernetes (Kind clusters, deployments, services, ingress, observability stack)
+- AWS services (EC2, S3, Lambda, API Gateway, RDS)
+- Terraform (currently learning – IaC, modules, Helm integration)
+
+---
+
+### 🌐 Backend Engineering
+- MERN stack (MongoDB, Express, React, Node.js)
+- MySQL database design and queries
+- Serverless architecture (AWS Lambda-based systems)
+- Backend system design and API structuring
+- Security fundamentals (authentication & authorization concepts)
+- System design fundamentals (scalability, availability, distributed thinking basics)
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">

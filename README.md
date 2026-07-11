@@ -1,3 +1,49 @@
+<table>
+<tr>
+<td width="280" align="center" valign="top">
+  <img src="./assets/profile.png" width="240" style="border-radius:50%;" alt="Bhavya Varshney"/>
+  <br/><br/>
+  <b>Bhavya Varshney</b><br/>
+  <sub>DevSecOps & Platform Engineer in training</sub>
+</td>
+<td valign="top">
+
+```
+bhavya@devsecops ~ %
+-------------------------------------------------
+OS: ...................... Linux (BIT Mesra Labs)
+Host: ..................... Ranchi, Jharkhand, IN
+Kernel: ................... DevSecOps v2.0
+Uptime: .................. 2 yrs (Class of 2029)
+CGPA: ..................... 8.49
+
+Languages: ................ C++, Python, JS, Bash
+Backend/APIs: ............. Node.js, Express, FastAPI,
+                              Django, REST, OAuth2, JWT
+Cloud/DevOps: ............. AWS, Docker, Kubernetes,
+                              Terraform, Ansible
+Observability: ............ Prometheus, Grafana, Loki
+Databases: ................ MongoDB, MySQL, Redis
+-------------------------------------------------
+Experience: ............... Cloud Computing Intern
+                              @ Worisgo (Remote)
+Role: ...................... Core Tech Team, SDS
+Flagship: .................. SolarSentinel
+                              (ISRO Hackathon)
+Memberships: ............... IET, IETE, SDS
+-------------------------------------------------
+Email: ..................... bhavyavarshney749@
+                              gmail.com
+Phone: ..................... +91 88689 97703
+LinkedIn: .................. bhavyavarshney-56351540b
+GitHub: ..................... btech1056625-dev
+CodeChef: ................... 1085 rating
+```
+
+</td>
+</tr>
+</table>
+
 # Hi there, I'm Bhavya Varshney 👋
 
 ---
@@ -6,14 +52,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=CSE+Undergraduate+at+BIT+Mesra;DevOps+%7C+Backend+%7C+Cloud+%7C+Linux+Enthusiast;Building+Cloud-Native+Systems+and+Kubernetes+Projects;Focused+on+Real-World+Infrastructure+and+Scalable+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=CSE+Undergraduate+at+BIT+Mesra;DevSecOps+%7C+Backend+%7C+Cloud+%7C+Platform+Engineering;Building+Cloud-Native+Systems+and+Kubernetes+Projects;Shipping+Production+AWS+Applications"
     alt="Typing SVG"
   />
 </p>
 
-I am a **Computer Science undergraduate at BIT Mesra**, passionate about **DevOps, Backend Engineering, Cloud Infrastructure, and Linux systems**.
+Second-year **Computer Science undergraduate at BIT Mesra** (CGPA 8.49) pursuing a **DevSecOps and platform engineering** track, with hands-on experience shipping production AWS applications, containerizing services with Docker and Kubernetes, and automating deployments with CI/CD pipelines.
 
-I focus on building **real-world cloud-native systems using Kubernetes, Terraform, Docker, and AWS**, while continuously improving my understanding of **distributed systems and system design**.
+Built and deployed a production full-stack web application with a real-time ML data pipeline in a national space-technology hackathon. Currently seeking a **DevOps internship** to apply cloud infrastructure, automation, and observability skills in a production engineering environment.
 
 ---
 
@@ -27,21 +73,23 @@ I focus on building **real-world cloud-native systems using Kubernetes, Terrafor
 
 ---
 
-### 🌐 Backend & Databases
+### 🌐 Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,redis" />
 </p>
 
-I build REST APIs, backend systems, and work with relational databases focusing on scalable and maintainable architecture.
+REST APIs, OAuth 2.0, JWT, and RBAC-based authentication and authorization.
 
 ---
 
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,git,github" />
 </p>
+
+AWS (EC2, S3, Lambda, DynamoDB, IAM, API Gateway, CloudFormation) · GitHub Actions CI/CD
 
 ### 📊 Observability & Monitoring Stack
 
@@ -55,47 +103,38 @@ I build REST APIs, backend systems, and work with relational databases focusing 
 
 ---
 
-I actively work with **containerized environments, Kubernetes orchestration, Infrastructure as Code (Terraform), configuration automation (Ansible), and full observability stacks (Prometheus, Grafana, Loki)**.
+## 💼 Professional Experience
+
+**Cloud Computing Intern** — Worisgo · Remote
+- Shipped production-grade applications on AWS across EC2, S3, Lambda, IAM, and API Gateway to deploy and maintain live customer-facing services.
+- Diagnosed and resolved an AWS billing/usage discrepancy end-to-end, compiling supporting documentation that led to a successful cost waiver.
+- Followed cloud security best practices (IAM least-privilege, resource tagging, cost monitoring) while deploying and iterating on production infrastructure.
+
+**Core Tech Team Member** — SDS, BIT Mesra
+- Selected to the official SDS tech team after winning a competitive club challenge to design and build the society's official website.
+- Built and deployed the SDS Club Website end-to-end using React, Vite, and Node.js, hosted on Vercel (frontend) and Render (backend).
+- Engineered an AI-powered Dataset Playground feature integrating the Groq API for real-time, interactive data exploration.
+- Currently designing cinematic homepage engagement features, including terminal-style boot sequences and interactive data visualizations.
 
 ---
 
-## 🧠 Additional Core Skills (DevOps + Backend Foundation)
+## 🚀 Featured Projects
 
-### ☁️ DevOps & Cloud Engineering
-- Linux system administration & command line
-- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS, ports)
-- Shell scripting for automation
-- Git version control (branching, rebasing, workflows)
-- GitHub Actions CI/CD pipelines
-- Docker containerization
-- Kubernetes (Kind clusters, deployments, services, ingress, observability stack)
-- AWS services (EC2, S3, Lambda, API Gateway, RDS)
-- Terraform (Infrastructure as Code, modules, Helm integration)
-- Ansible (basic configuration automation)
-
----
-
-### 🌐 Backend Engineering
-- MERN stack (MongoDB, Express, React, Node.js)
-- MySQL database design and queries
-- Serverless architecture (AWS Lambda-based systems)
-- Backend system design and API structuring
-- Security fundamentals (authentication & authorization concepts)
-- System design fundamentals (scalability, availability, distributed thinking basics)
+| Project | Description |
+|----------|-------------|
+| **SolarSentinel — Solar Flare Detection Pipeline** *(ISRO Hackathon, Ongoing)* | Leading Team XR-SQUAD (4 members) end-to-end, owning backend, DevOps, and security for an ML pipeline processing live Aditya-L1 satellite data (SoLEXS + HEL1OS payloads). Three-database architecture (InfluxDB, PostgreSQL, Redis), Celery+Redis task queue, cryptographic envelope security pattern. Authored full PRD, architecture diagrams, and submission materials for national-level evaluation. |
+| **Digital Twin for a Turbojet Engine** *(Hackathon, Ongoing)* | Real-time digital twin system applying architecture and DevOps patterns from SolarSentinel to model turbojet engine behavior. |
+| **Terraform K8s Observability Platform** | End-to-end DevOps infrastructure using Terraform for IaC, Kubernetes for orchestration, and Prometheus/Grafana/Loki for full observability. Automated deployment workflows with GitHub Actions CI/CD and modular, reusable Terraform modules. |
+| **Silent Shield — Auth Platform** | Security-focused backend authentication platform deployed on AWS EC2, managed with PM2. JWT-based authentication and RBAC authorization following OAuth 2.0 principles. |
+| **3-Tier Docker & K8s Practice Cluster** | Containerized a 3-tier application (frontend, backend, database) with Docker; deployed practice workloads on a local Kind Kubernetes cluster, configuring deployments, services, and ingress. |
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=btech1056625-dev&theme=tokyonight"
-  />
-
+  <img src="https://streak-stats.demolab.com?user=btech1056625-dev&theme=tokyonight" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -105,31 +144,25 @@ I actively work with **containerized environments, Kubernetes orchestration, Inf
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education & Memberships
 
-| Project | Description |
-|----------|-------------|
-| **Terraform Kubernetes Observability Platform** | End-to-end DevOps infrastructure using 🟣 Terraform, ☸️ Kubernetes, 📊 Prometheus, 📈 Grafana, 📜 Loki, and GitHub Actions. Implements observability, modular IaC design, and CI pipelines. |
-| **YouTube + Twitter Integration Platform (Major Project)** | Full-stack system integrating YouTube and Twitter APIs for content ingestion and processing with scalable backend architecture. |
-| **Silent Shield** | Security-focused backend project emphasizing authentication, API security, and infrastructure-aware design. |
-| **3-Tier Docker Application** | Containerized architecture demonstrating frontend, backend, and database separation using Docker. |
-| **Kubernetes Practice Cluster** | Local Kubernetes setup using Kind to explore deployments, services, ingress, and networking. |
-| **Backend Learning Projects** | REST APIs and backend systems focusing on scalability, authentication, and system design. |
+**B.Tech, Computer Science and Engineering** — Birla Institute of Technology (BIT) Mesra, Ranchi · CGPA 8.49 · Expected 2029
+
+- Institution of Engineering and Technology (IET) — Member
+- Institution of Electronics and Telecommunication Engineers (IETE) — Member
+- Society for Data Science (SDS), BIT Mesra — Core Tech Team Member
 
 ---
 
 ## 💻 Coding Profiles
 
 <p align="center">
-
   <a href="https://leetcode.com/u/btech1056625/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
   <a href="https://www.codechef.com/users/btech10566_25">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -138,16 +171,12 @@ I actively work with **containerized environments, Kubernetes orchestration, Inf
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/bhavya-varshney-56351540b">
+  <a href="https://www.linkedin.com/in/bhavyavarshney-56351540b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:bhavyavarshney749@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="mailto:btech10566.25@bitmesra.ac.in">
-    <img src="https://img.shields.io/badge/College_Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/BhavyaVars52143">

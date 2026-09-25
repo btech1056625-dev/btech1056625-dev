@@ -1,16 +1,6 @@
 <div align="center">
 
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║              BHAVYA VARSHNEY — TERMINAL THEME              ║
-  ╠══════════════════════════════════════════════════════════════╣
-  ║  BG       #0D1117   SURFACE   #161B22   BORDER   #30363D   ║
-  ║  CYAN     #22D3EE   VIOLET    #A78BFA   GREEN    #3FB950   ║
-  ║  TEXT     #C9D1D9   MUTED     #8B949E                         ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 <td>
 
@@ -25,48 +15,48 @@
 
 <br><br>
 
-<font color="#22D3EE"><code>bhavya@github:~$ whoami</code></font>
+<code>bhavya@github:~$ whoami</code>
 
 <br><br>
 
-<font color="#C9D1D9"><b>Bhavya Varshney</b></font>
+<b>Bhavya Varshney</b>
 
 <br>
 
-<font color="#8B949E"><sub>DevSecOps • Platform Engineering • Backend</sub></font>
+<sub>DevSecOps • Platform Engineering • Backend</sub>
 
 </td>
 
 <td width="72%" valign="top">
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#8B949E">bhavya@github:~/profile</font></pre>
+<pre>
+● ● ●    bhavya@github:~/profile
+</pre>
 
-<h1><font color="#22D3EE">Hi, I'm Bhavya Varshney 👋</font></h1>
+<h1>Hi, I'm Bhavya Varshney 👋</h1>
 
-<pre><font color="#C9D1D9">┌──────────────────────────────────────────────────────────────┐
-│ </font><font color="#22D3EE">SYSTEM.INFO</font><font color="#C9D1D9">                                                  │
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM.INFO                                                  │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  </font><font color="#22D3EE">NAME</font><font color="#C9D1D9">        Bhavya Varshney                                │
-│  </font><font color="#22D3EE">ROLE</font><font color="#C9D1D9">        CSE Undergraduate @ BIT Mesra                  │
-│  </font><font color="#22D3EE">BATCH</font><font color="#C9D1D9">       2029                                           │
-│  </font><font color="#22D3EE">FOCUS</font><font color="#C9D1D9">       Platform Engineering + Backend + Cloud         │
-│  </font><font color="#22D3EE">SYSTEMS</font><font color="#C9D1D9">     Linux • Docker • Kubernetes • Terraform        │
+│  NAME        Bhavya Varshney                                │
+│  ROLE        CSE Undergraduate @ BIT Mesra                  │
+│  BATCH       2029                                           │
+│  FOCUS       Platform Engineering + Backend + Cloud         │
+│  SYSTEMS     Linux • Docker • Kubernetes • Terraform        │
 │                                                              │
-│  </font><font color="#3FB950">STATUS</font><font color="#C9D1D9">      Building real-world cloud-native systems       │
+│  STATUS      Building real-world cloud-native systems       │
 │                                                              │
-└──────────────────────────────────────────────────────────────┘</font></pre>
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 <p>
-<a href="https://github.com/btech1056625-dev">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=161B22">
-</a>
-<a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=161B22">
-</a>
-<a href="https://leetcode.com/u/btech1056625/">
-<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=161B22">
-</a>
+<a href="https://github.com/btech1056625-dev">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/u/btech1056625/">LeetCode</a>
 </p>
 
 </td>
@@ -84,18 +74,18 @@
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 
 <td width="33%" valign="top">
 
-<table width="100%" cellpadding="14">
+<table width="100%" cellpadding="12">
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">VISUAL.MAP</font></pre>
+<pre>● ● ●   VISUAL.MAP</pre>
 
-<pre><font color="#8B949E">
+<pre>
         ┌───────────────┐
         │    BHAVYA     │
         │   VARSHNEY    │
@@ -110,33 +100,6 @@
         CLOUD / K8S / DEVOPS
                 │
         OBSERVABILITY
-</font></pre>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="33%" valign="top">
-
-<table width="100%" cellpadding="14">
-<tr>
-<td>
-
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">ENGINEERING.IDENTITY</font></pre>
-
-<pre><font color="#8B949E">$</font> <font color="#22D3EE">cat /etc/identity</font>
-
-<font color="#22D3EE">USER</font>        <font color="#C9D1D9">Bhavya</font>
-<font color="#22D3EE">ROLE</font>        <font color="#C9D1D9">Developer</font>
-<font color="#22D3EE">PRIMARY</font>     <font color="#C9D1D9">Backend + DevOps</font>
-<font color="#22D3EE">SPECIALTY</font>   <font color="#C9D1D9">Cloud-native systems</font>
-<font color="#22D3EE">OS</font>          <font color="#C9D1D9">Linux</font>
-<font color="#22D3EE">RUNTIME</font>     <font color="#C9D1D9">Containers</font>
-<font color="#22D3EE">ORCHESTRATOR</font> <font color="#C9D1D9">Kubernetes</font>
-<font color="#22D3EE">IaC</font>         <font color="#C9D1D9">Terraform</font>
-<font color="#22D3EE">OBSERVE</font>     <font color="#C9D1D9">Prometheus</font>
 </pre>
 
 </td>
@@ -147,19 +110,47 @@
 
 <td width="33%" valign="top">
 
-<table width="100%" cellpadding="14">
+<table width="100%" cellpadding="12">
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">01 / ENGINEERING IDENTITY</font></pre>
+<pre>● ● ●   ENGINEERING.IDENTITY</pre>
+
+<pre>
+$ cat /etc/identity
+
+USER        Bhavya
+ROLE        Developer
+PRIMARY     Backend + DevOps
+SPECIALTY   Cloud-native systems
+OS          Linux
+RUNTIME     Containers
+ORCHESTRATOR Kubernetes
+IaC         Terraform
+OBSERVE     Prometheus
+</pre>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="33%" valign="top">
+
+<table width="100%" cellpadding="12">
+<tr>
+<td>
+
+<pre>● ● ●   01 / ENGINEERING IDENTITY</pre>
 
 <p>
-<font color="#C9D1D9">I work at the intersection of
+I work at the intersection of
 <strong>backend engineering</strong> and
-<strong>platform engineering</strong>.</font>
+<strong>platform engineering</strong>.
 </p>
 
-<pre><font color="#8B949E">
+<pre>
 Backend
    ↓
 APIs / Auth / Data
@@ -173,7 +164,7 @@ Infrastructure
 Observability
    ↓
 Scalable Systems
-</font></pre>
+</pre>
 
 </td>
 </tr>
@@ -190,7 +181,7 @@ Scalable Systems
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 
 <td width="33%" valign="top">
@@ -199,14 +190,14 @@ Scalable Systems
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">whoami</font></pre>
+<pre>● ● ●   whoami</pre>
 
 <p>
-<font color="#C9D1D9"><strong>CSE Undergraduate @ BIT Mesra</strong><br>
-Ranchi • Class of 2029</font>
+<strong>CSE Undergraduate @ BIT Mesra</strong><br>
+Ranchi • Class of 2029
 </p>
 
-<pre><font color="#8B949E">
+<pre>
 CSE
  │
  ├── Backend Engineering
@@ -216,7 +207,7 @@ CSE
  ├── Kubernetes / Cloud
  │
  └── ML / LLMOps
-</font></pre>
+</pre>
 
 </td>
 </tr>
@@ -230,9 +221,9 @@ CSE
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">current.focus</font></pre>
+<pre>● ● ●   current.focus</pre>
 
-<p><font color="#22D3EE"><strong>01 — Platform Engineering</strong></font></p>
+<p><strong>01 — Platform Engineering</strong></p>
 
 <p>
 <code>Kubernetes</code>
@@ -242,7 +233,7 @@ CSE
 <code>CI/CD</code>
 </p>
 
-<p><font color="#22D3EE"><strong>02 — Backend Engineering</strong></font></p>
+<p><strong>02 — Backend Engineering</strong></p>
 
 <p>
 <code>Node.js</code>
@@ -252,7 +243,7 @@ CSE
 <code>REST</code>
 </p>
 
-<p><font color="#22D3EE"><strong>03 — Observability</strong></font></p>
+<p><strong>03 — Observability</strong></p>
 
 <p>
 <code>Prometheus</code>
@@ -273,7 +264,7 @@ CSE
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">quick.skills</font></pre>
+<pre>● ● ●   quick.skills</pre>
 
 <p>
 <code>C++</code>
@@ -310,8 +301,8 @@ CSE
 </p>
 
 <p>
-<font color="#22D3EE"><strong>Competitive Programming</strong></font><br>
-<font color="#C9D1D9">LeetCode • CodeChef • Codeforces</font>
+<strong>Competitive Programming</strong><br>
+LeetCode • CodeChef • Codeforces
 </p>
 
 </td>
@@ -329,7 +320,7 @@ CSE
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 
 <td width="33%" valign="top">
@@ -338,9 +329,9 @@ CSE
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">experience</font></pre>
+<pre>● ● ●   experience</pre>
 
-<p><font color="#22D3EE"><strong>Cloud Computing Intern — Worisgo</strong></font></p>
+<p><strong>Cloud Computing Intern — Worisgo</strong></p>
 
 <ul>
 <li>Production AWS applications</li>
@@ -350,7 +341,7 @@ CSE
 <li>Least privilege, tagging and cost monitoring</li>
 </ul>
 
-<p><font color="#22D3EE"><strong>Core Tech Team — Society for Data Science</strong></font></p>
+<p><strong>Core Tech Team — Society for Data Science</strong></p>
 
 <ul>
 <li>Selected through competitive challenge</li>
@@ -372,27 +363,27 @@ CSE
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">achievements</font></pre>
+<pre>● ● ●   achievements</pre>
 
-<p><font color="#22D3EE"><strong>SIH'26 — Team Sentinova</strong></font></p>
+<p><strong>SIH'26 — Team Sentinova</strong></p>
 
-<pre><font color="#8B949E">
+<pre>
 PS: 26102
 
 MPLAD Scheme
 Anomaly / Fraud /
 Inefficiency Detection
-</font></pre>
+</pre>
 
 <p>
-<font color="#C9D1D9"><strong>My role:</strong><br>
+<strong>My role:</strong><br>
 Backend + complete DevOps / automation
-+ technical presentation</font>
++ technical presentation
 </p>
 
-<p><font color="#22D3EE"><strong>SolarSentinel</strong></font></p>
+<p><strong>SolarSentinel</strong></p>
 
-<pre><font color="#8B949E">
+<pre>
 SoLEXS + HEL1OS
        ↓
    Backend
@@ -402,15 +393,15 @@ PostgreSQL
 Redis
        ↓
 Celery
-</font></pre>
+</pre>
 
 <p>
-<font color="#C9D1D9">Security • DevOps • Architecture</font>
+Security • DevOps • Architecture
 </p>
 
 <p>
-<font color="#22D3EE"><strong>Communities</strong></font><br>
-<font color="#C9D1D9">IET • IETE • SDS</font>
+<strong>Communities</strong><br>
+IET • IETE • SDS
 </p>
 
 </td>
@@ -425,11 +416,11 @@ Celery
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">featured.projects</font></pre>
+<pre>● ● ●   featured.projects</pre>
 
-<p><font color="#22D3EE"><strong>AI DevOps Platform</strong></font></p>
+<p><strong>AI DevOps Platform</strong></p>
 
-<pre><font color="#8B949E">
+<pre>
 VS Code Extension
         +
 FastMCP
@@ -442,14 +433,14 @@ Kubernetes
 CI/CD
 Terraform
 Prometheus
-</font></pre>
+</pre>
 
-<p><font color="#3FB950"><strong>70 installs</strong></font></p>
+<p><strong>70 installs</strong></p>
 
-<p><font color="#22D3EE"><strong>Terraform Kubernetes
-Observability Platform</strong></font></p>
+<p><strong>Terraform Kubernetes
+Observability Platform</strong></p>
 
-<pre><font color="#8B949E">
+<pre>
 Kind Kubernetes
 
 Prometheus
@@ -464,17 +455,17 @@ Kibana
 Loki
 Promtail
 Nginx Ingress
-</font></pre>
+</pre>
 
-<p><font color="#22D3EE"><strong>Silent Shield</strong></font></p>
+<p><strong>Silent Shield</strong></p>
 
-<pre><font color="#8B949E">
+<pre>
 JWT
 RBAC
 OAuth2
 EC2
 PM2
-</font></pre>
+</pre>
 
 </td>
 </tr>
@@ -491,7 +482,7 @@ PM2
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 
 <td width="33%" valign="top">
@@ -500,9 +491,9 @@ PM2
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">architecture</font></pre>
+<pre>● ● ●   architecture</pre>
 
-<pre><font color="#8B949E">
+<pre>
              CLIENT
                 │
                 ▼
@@ -527,7 +518,7 @@ PM2
         ┌──────┴──────┐
         ▼             ▼
     DATABASE     OBSERVABILITY
-</font></pre>
+</pre>
 
 </td>
 </tr>
@@ -541,9 +532,9 @@ PM2
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">learning.roadmap</font></pre>
+<pre>● ● ●   learning.roadmap</pre>
 
-<pre><font color="#8B949E">
+<pre>
 FOUNDATION
      │
      ▼
@@ -569,15 +560,15 @@ Distributed Systems
      │
      ▼
 ML / LLMOps
-</font></pre>
+</pre>
 
 <p>
-<font color="#22D3EE"><strong>Current direction</strong></font>
+<strong>Current direction</strong>
 </p>
 
 <p>
-<font color="#C9D1D9">Advanced backend + distributed systems
-while continuing platform engineering.</font>
+Advanced backend + distributed systems
+while continuing platform engineering.
 </p>
 
 </td>
@@ -592,9 +583,10 @@ while continuing platform engineering.</font>
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">kubernetes</font></pre>
+<pre>● ● ●   kubernetes</pre>
 
-<pre><font color="#8B949E">$</font> <font color="#22D3EE">kubectl get stack</font>
+<pre>
+$ kubectl get stack
 
        ┌───────────┐
        │  INGRESS  │
@@ -632,7 +624,7 @@ while continuing platform engineering.</font>
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="0" cellspacing="0" border="1">
 <tr>
 
 <td width="50%" valign="top">
@@ -641,9 +633,9 @@ while continuing platform engineering.</font>
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">engineering.principles</font></pre>
+<pre>● ● ●   engineering.principles</pre>
 
-<pre><font color="#8B949E">
+<pre>
 01  Automate repetitive work
 
 02  Prefer reproducible infrastructure
@@ -655,7 +647,7 @@ while continuing platform engineering.</font>
 05  Design for failure
 
 06  Learn by building
-</font></pre>
+</pre>
 
 </td>
 </tr>
@@ -669,7 +661,7 @@ while continuing platform engineering.</font>
 <tr>
 <td>
 
-<pre><font color="#22D3EE">● ● ●</font> <font color="#22D3EE">github.activity</font></pre>
+<pre>● ● ●   github.activity</pre>
 
 <p align="center">
 
@@ -697,59 +689,33 @@ alt="GitHub statistics">
 
 <div align="center">
 
-<table width="100%" cellpadding="12" cellspacing="0" border="1" bordercolor="#30363D" bgcolor="#0D1117">
+<table width="100%" cellpadding="12" cellspacing="0" border="1">
 <tr>
 <td align="center">
 
-<pre><font color="#22D3EE">build → ship → observe → improve</font></pre>
+<pre>
+build → ship → observe → improve
+</pre>
 
 <p>
-
-<a href="https://github.com/btech1056625-dev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=22D3EE&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/btech1056625/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=A78BFA&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="https://www.codechef.com/users/btech10566_25">
-<img src="https://img.shields.io/badge/CodeChef-0D1117?style=flat-square&logo=codechef&logoColor=A78BFA&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="https://x.com/BhavyaVars52143">
-<img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=22D3EE&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="https://instagram.com/bhavya44201">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=A78BFA&labelColor=161B22">
-</a>
-
-&nbsp;
-
-<a href="mailto:bhavyavarshney749@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=161B22">
-</a>
-
+<a href="https://github.com/btech1056625-dev">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/u/btech1056625/">LeetCode</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/btech10566_25">CodeChef</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/BhavyaVars52143">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/bhavya44201">Instagram</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:bhavyavarshney749@gmail.com">Email</a>
 </p>
 
 <p>
 <a href="https://my-profile-eight-taupe.vercel.app/">
-<font color="#22D3EE">Portfolio</font>
+Portfolio
 </a>
 </p>
 

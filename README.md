@@ -1,110 +1,175 @@
 <div align="center">
 
-# `bhavya@devsecops:~$ ./profile.sh`
-
-### **Bhavya Varshney**
-
-**DevSecOps & Platform Engineering · Backend · Cloud · Kubernetes**
-
-*CSE Undergraduate @ BIT Mesra · Class of 2029*
-
-<br>
+<table width="100%">
+<tr>
+<td width="20%" align="center" valign="middle">
 
 <a href="https://github.com/btech1056625-dev">
-  <img src="./assets/profile.png" alt="Bhavya Varshney" width="280">
+<img
+  src="./assets/profile.png"
+  width="180"
+  alt="Bhavya Varshney"
+/>
 </a>
 
-<br>
+</td>
 
-<sub>
-If the image does not render, <a href="https://github.com/btech1056625-dev">open my GitHub profile</a>.
-</sub>
+<td width="58%" align="left" valign="middle">
 
-<br><br>
+<pre>
+bhavya@devsecops:~$ ./profile.sh
+</pre>
+
+# **Bhavya <span style="color:#22D3EE">Varshney</span>**
+
+### `DevSecOps & Platform Engineering · Backend · Cloud · Kubernetes`
+
+**CSE Undergraduate @ BIT Mesra · Class of 2029**
 
 <a href="https://my-profile-eight-taupe.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 &nbsp;
 <a href="https://github.com/btech1056625-dev">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+</td>
+
+<td width="22%" align="left" valign="middle">
+
+<pre>
+“Build systems
+that scale,
+secure, and
+make a
+difference.”
+
+— Bhavya
+  Varshney
+</pre>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-# `VISUAL.MAP`
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="38%" align="center" valign="middle">
+<td width="33%" valign="top">
+
+### `◉ VISUAL.MAP`
+
+<table width="100%">
+<tr>
+
+<td width="45%" align="center" valign="middle">
 
 <a href="https://github.com/btech1056625-dev">
-<img src="./assets/profile.png" alt="Bhavya Varshney" width="280">
+<img
+  src="./assets/profile.png"
+  width="145"
+  alt="Bhavya Varshney"
+/>
 </a>
 
-<br><br>
+</td>
+
+<td valign="middle">
 
 <pre>
-┌──────────────────────────┐
-│       VISUAL.MAP         │
-│                          │
-│   BHAVYA VARSHNEY        │
-│                          │
-│   DEVSECOPS              │
-│   PLATFORM ENGINEERING   │
-│   BACKEND • CLOUD        │
-│                          │
-│   $ build --ship         │
-└──────────────────────────┘
+VISUAL.MAP
+
+BHAVYA
+VARSHNEY
+
+----------------
+
+DEVSECOPS
+
+PLATFORM
+ENGINEERING
+
+BACKEND
+· CLOUD
+
+$ build --ship
 </pre>
 
 </td>
 
-<td width="62%" valign="middle">
+</tr>
+</table>
+
+</td>
+
+<td width="34%" valign="top">
+
+### `⚙ ENGINEERING.IDENTITY`
 
 <pre>
-┌─────────────────────────────────────────────────────┐
-│ ● ● ●   bhavya@devsecops:~                 ● ONLINE │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│ SYSTEM.INFO                                         │
-│                                                     │
-│ bhavya@devsecops:~$ ./profile.sh                    │
-│                                                     │
-│ > NAME       Bhavya Varshney                        │
-│ > ROLE       DevSecOps / Platform Engineering      │
-│ > EDUCATION  CSE · BIT Mesra · 2029                │
-│ > CGPA       8.49                                  │
-│ > FOCUS      Backend · Kubernetes · Cloud           │
-│ > BUILDING   AI DevOps · SolarSentinel             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────┐
+│ ● ● ●  bhavya@devsecops:~        │
+├──────────────────────────────────┤
+│ SYSTEM.INFO                      │
+│                                  │
+│ bhavya@devsecops:~$ ./profile.sh │
+│                                  │
+│ > NAME                            │
+│   Bhavya Varshney                 │
+│                                  │
+│ > ROLE                            │
+│   DevSecOps / Platform Engineer  │
+│                                  │
+│ > EDUCATION                       │
+│   CSE · BIT Mesra · 2029          │
+│                                  │
+│ > CGPA                            │
+│   8.49                            │
+│                                  │
+│ > FOCUS                           │
+│   Backend · K8s · Cloud           │
+│                                  │
+│ > BUILDING                        │
+│   AI DevOps · SolarSentinel       │
+└──────────────────────────────────┘
 </pre>
+
+</td>
+
+<td width="33%" valign="top">
 
 ### `01 / ENGINEERING IDENTITY`
 
 I build **backend systems, cloud infrastructure and developer tooling**, with a strong focus on automation, Kubernetes, observability and security.
 
-My current direction is:
+### Current Direction
 
-<pre>
-Platform Engineering
-        ↓
-Advanced Backend Engineering
-        ↓
-Distributed Systems
-        ↓
-ML Infrastructure
-        ↓
-LLMOps / AI Engineering
-</pre>
+`Platform Engineering`
+
+↓
+
+`Advanced Backend Engineering`
+
+↓
+
+`Distributed Systems`
+
+↓
+
+`ML Infrastructure`
+
+↓
+
+`LLMOps / AI Engineering`
 
 </td>
 
@@ -113,109 +178,121 @@ LLMOps / AI Engineering
 
 ---
 
-# `whoami`
+<table width="100%">
+<tr>
+
+<td width="36%" valign="top">
+
+## `◉ whoami`
 
 I'm a **Computer Science undergraduate at Birla Institute of Technology, Mesra**, focused on **DevSecOps, Platform Engineering and Backend Engineering**.
 
 I like working across the complete engineering lifecycle:
 
-<pre>
-Design
-  ↓
-Backend
-  ↓
-Infrastructure
-  ↓
-CI/CD
-  ↓
-Security
-  ↓
-Deployment
-  ↓
-Observability
-  ↓
-Debugging / RCA
-  ↓
-Iteration
-</pre>
+<table width="100%">
+<tr>
+<td align="center">Design</td>
+<td>→</td>
+<td align="center">Backend</td>
+<td>→</td>
+<td align="center">Infrastructure</td>
+</tr>
+<tr>
+<td align="center">CI/CD</td>
+<td>→</td>
+<td align="center">Security</td>
+<td>→</td>
+<td align="center">Deployment</td>
+</tr>
+<tr>
+<td align="center">Observability</td>
+<td>→</td>
+<td align="center">Debugging / RCA</td>
+<td>→</td>
+<td align="center">Iteration</td>
+</tr>
+</table>
 
-Rather than building isolated demos, I prefer projects where multiple engineering layers interact.
+</td>
+
+<td width="38%" valign="top">
+
+## `◎ current.focus`
+
+### Platform Engineering
+
+- ✓ Kubernetes
+- ✓ Docker
+- ✓ Terraform
+- ✓ Ansible
+- ✓ Linux
+- ✓ GitHub Actions
+- ✓ Infrastructure automation
+- ✓ Developer tooling
+- ✓ Observability
+- ✓ CI/CD
+
+### Backend Engineering
+
+- ✓ Node.js
+- ✓ Express
+- ✓ FastAPI
+- ✓ Django
+- ✓ REST APIs
+- ✓ JWT
+- ✓ OAuth 2.0 / OIDC
+- ✓ RBAC
+- ✓ Authentication
+- ✓ Authorization
+- ✓ System Design
+
+</td>
+
+<td width="26%" valign="top">
+
+## `⚡ quick.skills`
+
+`C++` `Python` `JavaScript` `Bash`
+
+`Node.js` `Express` `FastAPI` `Django`
+
+`MongoDB` `MySQL` `PostgreSQL` `Redis`
+
+`AWS` `Docker` `Kubernetes` `Terraform`
+
+`Ansible` `Linux` `Git` `GitHub Actions`
+
+`Prometheus` `Grafana` `Loki`
 
 ---
 
-# `current.focus`
+## `competitive.programming`
 
-<table>
-<tr>
+<a href="https://leetcode.com/u/btech1056625/">
+<img src="https://img.shields.io/badge/LeetCode-btech1056625-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
 
-<td width="50%" valign="top">
+<a href="https://www.codechef.com/users/btech10566_25">
+<img src="https://img.shields.io/badge/CodeChef-btech10566__25-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
 
-### ⚙️ Platform Engineering
+---
 
-- Kubernetes
-- Docker
-- Terraform
-- Ansible
-- Linux
-- GitHub Actions
-- Infrastructure automation
-- Developer tooling
-- Observability
-- CI/CD
+## `education`
 
-</td>
+**BIT Mesra**
 
-<td width="50%" valign="top">
+`B.Tech CSE`
 
-### 🧠 Backend Engineering
+`CGPA 8.49`
 
-- Node.js
-- Express
-- FastAPI
-- Django
-- REST APIs
-- JWT
-- OAuth 2.0 / OIDC
-- RBAC
-- Authentication
-- Authorization
-- System Design
+`2029`
 
-</td>
+---
 
-</tr>
+## `communities`
 
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud
-
-- AWS
-- EC2
-- S3
-- Lambda
-- DynamoDB
-- IAM
-- API Gateway
-- Local cloud emulation
-- Kubernetes-based infrastructure
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Observability
-
-- Prometheus
-- Grafana
-- Loki
-- Alertmanager
-- Node Exporter
-- Metrics
-- Logs
-- Monitoring
-- Kubernetes observability
+`IET` · `IETE` · `SDS`
 
 </td>
 
@@ -224,306 +301,149 @@ Rather than building isolated demos, I prefer projects where multiple engineerin
 
 ---
 
-# `experience`
+<table width="100%">
+<tr>
 
-## ☁️ Cloud Computing Intern — Worisgo
+<td width="43%" valign="top">
+
+# `▣ experience`
+
+### Cloud Computing Intern — Worisgo
 
 **Remote**
 
-Worked with production-oriented AWS infrastructure and application deployments.
+- EC2
+- S3
+- Lambda
+- IAM
+- API Gateway
+- Cloud-hosted applications
+- AWS billing / usage investigation
+- Technical documentation
+- Cost-waiver resolution
+- Least-privilege IAM
+- Resource tagging
+- Cost monitoring
 
-### Engineering Work
-
-- Worked with **EC2, S3, Lambda, IAM and API Gateway**.
-- Worked on cloud-hosted applications and infrastructure.
-- Investigated an AWS billing / usage discrepancy.
-- Compiled technical documentation supporting the investigation.
-- Contributed to a successful cost-waiver resolution.
-- Applied least-privilege IAM principles.
-- Used resource tagging and cost-monitoring practices.
-
----
-
-## 🧠 Core Tech Team — Society for Data Science
+### Core Tech Team — Society for Data Science
 
 **BIT Mesra**
 
-Selected for the technical team through a competitive website-building challenge.
+- Official SDS website
+- React / Vite / Node.js
+- AI Dataset Playground
+- Groq API
+- Interactive terminal interfaces
+- Technical visualizations
+- Club infrastructure
 
-### Work
+</td>
 
-- Built and deployed the official SDS website.
-- Worked with React, Vite and Node.js.
-- Integrated an AI-powered Dataset Playground using the Groq API.
-- Worked on interactive terminal-style interfaces.
-- Worked on technical visualizations and club infrastructure.
+<td width="32%" valign="top">
 
----
+# `🏆 achievements`
 
-# `achievements`
+### 🚀 AI DevOps Platform
 
-## 🚀 AI DevOps Platform
+AI-assisted DevOps tooling built around MCP.
 
-Built and published an **AI-assisted DevOps platform / VS Code extension** based around MCP tooling.
+`FastMCP`
 
-### Core DevOps Domains
+`Python`
 
-<pre>
-┌─────────────┐
-│     MCP     │
-└──────┬──────┘
-       │
- ┌─────┼──────┬──────────┬──────────┐
- ▼     ▼      ▼          ▼          ▼
- Git  Docker  K8s      Terraform  CI/CD
-                         │
-                         ▼
-                    Prometheus
-</pre>
+`Docker`
 
-### Stack
+`Kubernetes`
 
-<pre>
-FastMCP
-Python
-Docker
-Kubernetes
-Terraform
-Prometheus
-VS Code Extension
-</pre>
+`Terraform`
 
-### Marketplace Milestone
+`Prometheus`
+
+`VS Code Extension`
 
 <p align="center">
-<img src="https://img.shields.io/badge/VS%20Code%20Marketplace-70%20INSTALLS-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="AI DevOps Platform — 70 installs">
+<img src="https://img.shields.io/badge/70-INSTALLS-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="70 installs">
 </p>
 
-**70 installs** on the VS Code Marketplace.
+### 🛰️ SolarSentinel
 
-Built as a developer-focused tool for AI-assisted infrastructure and DevOps workflows.
+Solar-flare detection pipeline using **Aditya-L1 data**.
 
----
+`InfluxDB` · `PostgreSQL` · `Redis` · `Celery`
 
-## 🛰️ SolarSentinel
+**Ownership**
 
-Solar-flare detection pipeline built around **Aditya-L1 data** for hackathon work.
+`Backend` · `DevOps` · `Security`
 
-### Architecture
+`Architecture` · `Automation`
 
-<pre>
-Aditya-L1 Data
-      │
-      ▼
-Data Ingestion
-      │
- ┌────┼─────────────┐
- ▼    ▼             ▼
-InfluxDB PostgreSQL Redis
-      │
-      ▼
-Celery Workers
-      │
-      ▼
-Processing / Detection
-      │
-      ▼
-Analysis / Output
-</pre>
+### 🏆 Smart India Hackathon
 
-### My Ownership
+**SIH'26 · PS 26102**
 
-- Backend
-- DevOps
-- Security
-- Architecture
-- Automation
-- Infrastructure
+Team Sentinova
 
-Also responsible for:
+AI system for **MPLAD Scheme anomaly, fraud and inefficiency detection**.
 
-- PRD
-- Architecture diagrams
-- Technical documentation
-- Submission material
-- System integration
+`Backend` · `DevOps` · `Automation`
 
----
+`Infrastructure` · `Technical Presentation`
 
-## 🏆 Smart India Hackathon — Team Sentinova
+### 🌐 Community Development
 
-**SIH'26 · Problem Statement 26102**
+`IET` · `IETE` · `SDS`
 
-Working on an AI system for **MPLAD Scheme anomaly, fraud and inefficiency detection**.
+IET BIT Mesra website contribution.
 
-### My Responsibility
+</td>
 
-<pre>
-Backend
-+
-DevOps
-+
-Automation
-+
-Infrastructure
-+
-Technical Presentation
-</pre>
+<td width="25%" valign="top">
 
-Working alongside teammates specializing in:
+# `▣ featured.projects`
 
-<pre>
-Frontend
-GenAI
-ML / DL
-</pre>
+### 🤖 AI DevOps Platform
+
+VS Code · MCP · Git · Docker · K8s · Terraform · Prometheus
+
+### 🛰️ SolarSentinel
+
+Aditya-L1 · Solar Flare Detection
+
+InfluxDB · PostgreSQL · Redis · Celery
+
+### ☸️ Terraform K8s Observability Platform
+
+Terraform · Kind · Kubernetes
+
+Prometheus · Grafana · Loki · GitHub Actions
+
+### 🛡️ Silent Shield
+
+JWT · OAuth 2.0 · RBAC
+
+AWS EC2 · PM2
+
+### ✈️ Digital Twin — Turbojet Engine
+
+Real-time · System Integration · DevOps
+
+### 🧩 3-Tier Docker + Kubernetes
+
+Docker · Kind · Services · Ingress
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌐 Technical Community Development
+<table width="100%">
+<tr>
 
-Active across:
+<td width="44%" valign="top">
 
-<pre>
-IET
-IETE
-Society for Data Science
-</pre>
-
-Also contributing toward the **IET BIT Mesra website**.
-
----
-
-# `featured.projects`
-
-## 🤖 AI DevOps Platform
-
-**AI-powered DevOps developer tooling**
-
-<pre>
-VS Code
-   │
-   ▼
-MCP Client
-   │
-   ▼
-MCP Gateway
-   │
-   ├── Git
-   ├── Docker
-   ├── Kubernetes
-   ├── CI/CD
-   ├── Terraform
-   └── Prometheus
-</pre>
-
-Designed to reduce repetitive infrastructure interaction and provide an AI-assisted workflow for DevOps operations.
-
----
-
-## ☸️ Terraform Kubernetes Observability Platform
-
-Local cloud-native infrastructure built around:
-
-<pre>
-Terraform
-Kubernetes
-Docker
-Prometheus
-Grafana
-Loki
-Promtail
-Alertmanager
-Node Exporter
-Nginx Ingress
-GitHub Actions
-</pre>
-
-Includes:
-
-- Kubernetes namespaces
-- Application workloads
-- MySQL
-- Persistent volumes
-- Secrets
-- Monitoring
-- Logging
-- Ingress
-- Infrastructure automation
-- CI/CD
-
----
-
-## 🛡️ Silent Shield
-
-Security-focused authentication backend.
-
-### Concepts
-
-<pre>
-JWT
-RBAC
-OAuth 2.0
-Authentication
-Authorization
-Access Tokens
-Refresh Tokens
-</pre>
-
-Deployed using AWS EC2 and managed with PM2.
-
----
-
-## ✈️ Digital Twin — Turbojet Engine
-
-Hackathon project exploring a digital-twin architecture for turbojet-engine modelling.
-
-### Focus
-
-<pre>
-Real-time Data
-Backend
-System Integration
-DevOps
-Infrastructure
-Service Communication
-</pre>
-
----
-
-## 🧩 3-Tier Docker + Kubernetes Platform
-
-Containerized architecture:
-
-<pre>
-          ┌──────────────┐
-          │   Frontend   │
-          └──────┬───────┘
-                 │
-          ┌──────▼───────┐
-          │   Backend    │
-          └──────┬───────┘
-                 │
-          ┌──────▼───────┐
-          │   Database   │
-          └──────────────┘
-</pre>
-
-Built using:
-
-<pre>
-Docker
-Kind
-Kubernetes
-Services
-Ingress
-</pre>
-
----
-
-# `architecture`
-
-I'm actively working with concepts across backend, DevOps and distributed systems.
+# `⌘ architecture`
 
 <pre>
                          CLIENT
@@ -537,285 +457,200 @@ I'm actively working with concepts across backend, DevOps and distributed system
                     │ API Gateway  │
                     └──────┬───────┘
                            │
-                  ┌────────┼────────┐
-                  ▼        ▼        ▼
-               Service A Service B Service C
-                  │        │        │
-                  └────────┼────────┘
+                 ┌─────────┼─────────┐
+                 ▼         ▼         ▼
+              Service A Service B Service C
+                 │         │         │
+                 └─────────┼─────────┘
                            │
                     ┌──────▼───────┐
                     │ Message Bus  │
                     │ Kafka / Queue│
                     └──────┬───────┘
                            │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          Redis        PostgreSQL     Object Store
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+           Redis       PostgreSQL   Object Store
 </pre>
 
 ### Architecture Topics
 
-- Reverse proxies
-- API gateways
-- Load balancers
-- Middleware
-- Authentication
-- Authorization
-- Caching
-- CAP theorem
-- Saga pattern
-- Event-driven architecture
-- Microservices
-- Kafka
-- RabbitMQ
-- SNS / SQS
-- BullMQ
-- Database indexing
-- B+ trees
-- Distributed systems
-- System design
+`Reverse Proxy`
 
----
+`API Gateway`
 
-# `technology.stack`
+`Load Balancers`
 
-### Languages
+`CAP`
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" alt="C++, Python, JavaScript, Bash">
-</p>
+`Saga`
 
-### Backend
+`Kafka`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" alt="Node.js, Express, FastAPI, Django">
-</p>
+`RabbitMQ`
 
-<pre>
-REST APIs
-JWT
-OAuth 2.0
-OIDC
-RBAC
-Authentication
-Authorization
-API Design
-</pre>
+`SNS / SQS`
 
-### Databases
+`BullMQ`
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="MongoDB, MySQL, PostgreSQL, Redis">
-</p>
+`Caching`
 
-<pre>
-MongoDB
-MySQL
-PostgreSQL
-Redis
-InfluxDB
-</pre>
+`B+ Trees`
 
-### Cloud / DevOps
+`Distributed Systems`
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,git,github" alt="AWS, Docker, Kubernetes, Terraform, Ansible, Linux, Git, GitHub">
-</p>
+`System Design`
 
-<pre>
-AWS
-Docker
-Kubernetes
-Terraform
-Ansible
-Linux
-Git
-GitHub Actions
-</pre>
+</td>
 
-### Observability
+<td width="32%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana">
-</p>
+# `→ learning.roadmap`
 
-<pre>
-Prometheus
-Grafana
-Loki
-Alertmanager
-Node Exporter
-</pre>
+<table width="100%">
+<tr>
+<td align="center">
 
----
+**Platform Engineer**
 
-# `kubernetes`
-
-Kubernetes is one of my primary infrastructure areas.
-
-Current experience includes:
-
-<pre>
-Kind
-Docker Desktop
-Deployments
-Services
-Ingress
-RBAC
-Helm
-Metrics Server
-Namespaces
-Persistent Volumes
-Secrets
-ConfigMaps
-Resource Management
-Cluster Troubleshooting
-</pre>
-
-My Kubernetes work is increasingly focused on:
-
-<pre>
-Infrastructure
-+
+Kubernetes  
+Infrastructure  
+Automation  
 Observability
-+
-Security
-+
-Automation
-+
-Troubleshooting
-</pre>
 
----
+</td>
 
-# `learning.roadmap`
+<td align="center">→</td>
 
-My current learning direction:
+<td align="center">
 
-<pre>
-                    ┌───────────────────┐
-                    │ Platform Engineer │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │ Advanced Backend  │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │ Distributed Sys.  │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │ ML Infrastructure │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │      LLMOps       │
-                    └───────────────────┘
-</pre>
+**Advanced Backend**
+
+PostgreSQL  
+Redis  
+Kafka  
+System Design
+
+</td>
+</tr>
+
+<tr>
+<td align="center">↓</td>
+<td></td>
+<td align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**Distributed Systems**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+**ML Infrastructure**
+
+NumPy  
+Pandas  
+PyTorch  
+Transformers
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+↓
+
+**LLMOps / AI Engineering**
+
+</td>
+</tr>
+</table>
 
 ### Backend
 
-<pre>
-PostgreSQL
-Redis
-Kafka
-Distributed Systems
-System Design
-Scalable APIs
-Security
-</pre>
+`PostgreSQL`
+
+`Redis`
+
+`Kafka`
+
+`Distributed Systems`
+
+`System Design`
+
+`Scalable APIs`
+
+`Security`
 
 ### ML
 
-<pre>
-NumPy
-Pandas
-scikit-learn
-PyTorch
-Transformers
-ML Infrastructure
-LLMOps
-</pre>
+`NumPy`
 
----
+`Pandas`
 
-# `competitive.programming`
+`scikit-learn`
 
-I practice DSA and competitive programming primarily in **C++**.
+`PyTorch`
 
-Current areas:
+`Transformers`
 
-<pre>
-Arrays
-Strings
-Binary Search
-Linked Lists
-Stacks
-Queues
-Trees
-Backtracking
-Greedy
-Graphs
-Dynamic Programming
-STL
-</pre>
+`ML Infrastructure`
 
-<p align="center">
-
-<a href="https://leetcode.com/u/btech1056625/">
-<img src="https://img.shields.io/badge/LeetCode-btech1056625-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-</a>
-
-<a href="https://www.codechef.com/users/btech10566_25">
-<img src="https://img.shields.io/badge/CodeChef-btech10566__25-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-</a>
-
-</p>
-
----
-
-# `education`
-
-## 🎓 Birla Institute of Technology, Mesra
-
-**B.Tech — Computer Science & Engineering**
-
-<pre>
-Institution : BIT Mesra
-Location    : Ranchi, Jharkhand
-Expected    : 2029
-CGPA        : 8.49
-</pre>
-
----
-
-# `communities`
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### IET
-
-Institution of Engineering and Technology
+`LLMOps`
 
 </td>
 
-<td align="center" width="33%">
+<td width="24%" valign="top">
 
-### IETE
+# `☸ kubernetes`
 
-Institution of Electronics and Telecommunication Engineers
+### Core
 
-</td>
+`Kind`
 
-<td align="center" width="33%">
+`Docker Desktop`
 
-### SDS
+`Deployments`
 
-Society for Data Science
+`Services`
+
+`Ingress`
+
+`RBAC`
+
+`Helm`
+
+`Metrics Server`
+
+`Namespaces`
+
+`Persistent Volumes`
+
+`Secrets`
+
+`ConfigMaps`
+
+`Resource Management`
+
+`Cluster Troubleshooting`
+
+### Focus
+
+`Infrastructure`
+
+`Observability`
+
+`Security`
+
+`Automation`
+
+`Troubleshooting`
 
 </td>
 
@@ -824,7 +659,12 @@ Society for Data Science
 
 ---
 
-# `engineering.principles`
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## `engineering.principles`
 
 <pre>
 01  Automate repetitive work.
@@ -833,68 +673,82 @@ Society for Data Science
 
 03  Observability is part of engineering.
 
-04  Security belongs inside the development lifecycle.
+04  Security belongs inside
+    the development lifecycle.
 
-05  Build systems that are understandable
-    before making them complicated.
+05  Build systems that are
+    understandable before making
+    them complicated.
 
-06  Prefer measurable engineering decisions.
+06  Prefer measurable
+    engineering decisions.
 
 07  Learn by building.
 
 08  Ship → Observe → Debug → Improve.
 </pre>
 
----
+</td>
 
-# `github.activity`
+<td width="50%" valign="top">
+
+## `github.activity`
 
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=btech1056625-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="180"
-  alt="Bhavya's GitHub statistics"
->
+src="https://github-readme-stats.vercel.app/api?username=btech1056625-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="165"
+alt="Bhavya's GitHub statistics"
+/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=btech1056625-dev&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Bhavya's GitHub contribution streak"
->
+src="https://github-readme-streak-stats.herokuapp.com/?user=btech1056625-dev&theme=tokyonight&hide_border=true"
+height="165"
+alt="Bhavya's GitHub contribution streak"
+/>
 
 </p>
 
-<p align="center">
+</td>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=btech1056625-dev&theme=tokyo-night&hide_border=true"
-  width="95%"
-  alt="Bhavya's GitHub activity graph"
->
-
-</p>
+</tr>
+</table>
 
 ---
 
-# `connect`
+<div align="center">
 
-<p align="center">
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  BUILDING INFRASTRUCTURE.                                    │
+│  ENGINEERING BACKEND SYSTEMS.                                │
+│  AUTOMATING EVERYTHING WORTH AUTOMATING.                     │
+│                                                              │
+│                    — Bhavya Varshney                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+### `build → ship → observe → improve`
+
+<p>
 
 <a href="https://my-profile-eight-taupe.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://github.com/btech1056625-dev">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/bhavyavarshney-56351540b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:bhavyavarshney749@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://x.com/BhavyaVars52143">
@@ -902,28 +756,10 @@ Society for Data Science
 </a>
 
 <a href="https://instagram.com/bhavya44201">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-<pre>
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│   BUILDING INFRASTRUCTURE.                            │
-│   ENGINEERING BACKEND SYSTEMS.                       │
-│   AUTOMATING EVERYTHING WORTH AUTOMATING.             │
-│                                                       │
-│                 — Bhavya Varshney                     │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-</pre>
-
-### `build → ship → observe → improve`
 
 <sub>
 CSE Undergraduate @ BIT Mesra · DevSecOps · Backend · Cloud · Kubernetes · Platform Engineering
@@ -932,13 +768,11 @@ CSE Undergraduate @ BIT Mesra · DevSecOps · Backend · Cloud · Kubernetes · 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=btech1056625-dev&style=flat-square&color=7C3AED"
-  alt="Profile views"
->
+src="https://komarev.com/ghpvc/?username=btech1056625-dev&style=flat-square&color=7C3AED"
+alt="Profile views"
+/>
 
 </div>
-
----
 
 <!--
 ============================================================
@@ -947,42 +781,35 @@ PROFILE IMAGE SETUP
 
 Repository structure:
 
-btech1056625-dev/
-├── README.md
-└── assets/
-    └── profile.png
+README.md
+assets/
+└── profile.png
 
-1. Create the assets folder:
+Use the personal photograph supplied for this profile as:
 
-   mkdir -p assets
+assets/profile.png
 
-2. Add your profile image:
+The README intentionally uses the GitHub-safe relative path:
 
-   assets/profile.png
+./assets/profile.png
 
-3. Recommended:
-   - PNG format
-   - Square or portrait crop
-   - Clear face / shoulders
-   - 600px+ resolution
+Commands:
 
-4. Commit and push:
+mkdir -p assets
 
-   git add README.md assets/profile.png
-   git commit -m "Update GitHub profile hero"
-   git push
+cp /path/to/your/photo.png assets/profile.png
 
-The README uses the GitHub-safe relative path:
+git add README.md assets/profile.png
 
-   ./assets/profile.png
+git commit -m "Redesign GitHub profile README"
 
-The image is wrapped in a link to:
+git push
 
-   https://github.com/btech1056625-dev
+The image is linked to:
 
-If the image fails to render, the visible fallback
-link above the rest of the README lets visitors open
-your GitHub profile directly.
+https://github.com/btech1056625-dev
+
+Do not use the previous fish / placeholder image.
 
 ============================================================
 -->

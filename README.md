@@ -21,12 +21,30 @@
 name:      Bhavya
 studying:  B.Tech CSE @ BIT Mesra, Ranchi (2025 – 2029)
 focus:     DevSecOps · Platform Engineering · Cloud Native
-building:  CI Intelligence Agentic System · AI Cloud Platform (IDP)
+building:  AI DevOps Platform · CI Intelligence Agentic System
 learning:  MLOps / LLMOps on top of my DevOps foundation
 goal:      Platform / DevOps engineer, aiming for top-tier infra teams
-roles:     Core Tech Team @ SDS BIT Mesra · IET · IETE
+roles:     Developer Team Member @ SDS BIT Mesra · IET · IETE
 ```
  
+<!-- ============ COMMUNITY & ROLES (EDIT: titles) ============ -->
+## 🤝 Community & Roles
+ 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/IET-Developer%20Team%20Member-7C83FF?style=for-the-badge&logo=ieee&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/IETE-Developer%20Team%20Member-302b63?style=for-the-badge&logo=ieee&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SDS%20BIT%20Mesra-Developer%20Team%20Member-24243e?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+</div>
 <!-- ============ TECH STACK (EDIT: icon list after i=) ============ -->
 ## 🛠️ Tech Stack
  
@@ -37,53 +55,35 @@ roles:     Core Tech Team @ SDS BIT Mesra · IET · IETE
 <!-- ============ FEATURED PROJECTS (EDIT: names, links, descriptions) ============ -->
 ## 🚀 Featured Projects
  
+<!-- EDIT: change the href links. Card visuals live in assets/projects/*.svg -->
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ AI Cloud Platform</h3>
-      <p>Internal Developer Platform for AI/ML workloads on Kubernetes with Argo CD GitOps and Terraform.</p>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/><br/>
-      <a href="https://github.com/btech1056625-dev/REPO-NAME">🔗 View Repo</a>
+    <td align="center" width="50%">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bhavya-varshney.ai-devops-platform">
+        <img src="./assets/projects/ai-devops-platform.svg" width="100%" alt="AI DevOps Platform"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>☀️ SolarSentinel</h3>
-      <p>Real-time ML pipeline for solar flare detection. ISRO BAH 2026 entry with Team XR-SQUAD.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
-      <a href="https://github.com/btech1056625-dev/REPO-NAME">🔗 View Repo</a>
+    <td align="center" width="50%">
+      <a href="https://github.com/SiddharthAgr/ibm_hackethon_4play">
+        <img src="./assets/projects/ci-intelligence-agentic-system.svg" width="100%" alt="CI Intelligence Agentic System"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 URL Shortener + Event Pipeline</h3>
-      <p>Event-driven notification pipeline on LocalStack-emulated AWS, fully provisioned with Terraform.</p>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/><br/>
-      <a href="https://github.com/btech1056625-dev/REPO-NAME">🔗 View Repo</a>
+    <td align="center" width="50%">
+      <a href="https://github.com/btech1056625-dev/terraform-kubernetes-observability-platform">
+        <img src="./assets/projects/terraform-k8s-observability.svg" width="100%" alt="Terraform Kubernetes Observability Platform"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Production MCP Server</h3>
-      <p>Production-grade MCP server built phase by phase in Python with FastMCP.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastMCP-000000?style=flat-square"/><br/>
-      <a href="https://github.com/btech1056625-dev/REPO-NAME">🔗 View Repo</a>
-    </td>
-  </tr>
-  <!-- ===== NEW: currently building (EDIT description + repo link) ===== -->
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 CI Intelligence Agentic System &nbsp;<img src="https://img.shields.io/badge/status-init%20%F0%9F%9A%A7-7C83FF?style=flat-square"/></h3>
-      <p>Agentic system that makes CI pipelines intelligent: analyzes build and test failures, finds root causes, and suggests or applies fixes through autonomous AI agents.</p>
-      <img src="https://img.shields.io/badge/AI%20Agents-7C83FF?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/><br/>
-      <a href="https://github.com/btech1056625-dev/ci-intelligence-agentic-system">🔗 View Repo</a>
+    <td align="center" width="50%">
+      <a href="https://github.com/btech1056625-dev/url_shortner">
+        <img src="./assets/projects/url-shortener-event-pipeline.svg" width="100%" alt="URL Shortener and Event Pipeline"/>
+      </a>
     </td>
   </tr>
 </table>
+</div>
 <!-- ============ GITHUB STATS (EDIT: theme) ============ -->
 ## 📊 GitHub Stats
  
@@ -120,3 +120,4 @@ roles:     Core Tech Team @ SDS BIT Mesra · IET · IETE
 </div>
 <!-- ============ FOOTER ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer"/>
+ 

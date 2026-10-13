@@ -49,37 +49,44 @@ roles:     Developer Team Member @ SDS BIT Mesra · IET · IETE
 ## 🛠️ Tech Stack
  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,bash,react,nodejs,mongodb,fastapi,postgres,redis&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,git,github,githubactions,prometheus,grafana,nginx,ansible&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,bash,react,nodejs,express,django,fastapi,mongodb,mysql,redis&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,git,github,githubactions,prometheus,grafana,nginx&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48" alt="Argo CD" />
 </div>
 <!-- ============ FEATURED PROJECTS (EDIT: names, links, descriptions) ============ -->
 ## 🚀 Featured Projects
  
-<!-- EDIT: change the href links. Card visuals live in assets/projects/*.svg -->
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://marketplace.visualstudio.com/items?itemName=bhavya-varshney.ai-devops-platform">
-        <img src="./assets/projects/ai-devops-platform.svg" width="100%" alt="AI DevOps Platform"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🛰️ AI DevOps Platform</h3>
+      <sub><i>MCP-powered DevOps inside your editor</i></sub><br/><br/>
+      AI platform that brings DevOps automation into VS Code. Live on the VS Code Marketplace.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Acquisitions-80%2B-22C55E?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/><br/>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bhavya-varshney.ai-devops-platform"><img src="https://img.shields.io/badge/VIEW%20ON%20MARKETPLACE-7C83FF?style=for-the-badge&logo=github&logoColor=white" alt="VIEW%20ON%20MARKETPLACE"/></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/SiddharthAgr/ibm_hackethon_4play">
-        <img src="./assets/projects/ci-intelligence-agentic-system.svg" width="100%" alt="CI Intelligence Agentic System"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🤖 CI Intelligence Agentic System</h3>
+      <sub><i>IBM Bob 2.0 Hackathon · Team 4Play</i></sub><br/><br/>
+      Turns CI failures into rerun / fix / revert / escalate calls using failure memory, coverage analysis and deploy-safety gates.<br/><br/>
+      <img src="https://img.shields.io/badge/IBM%20Bob-052FAD?style=flat-square&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/><br/><br/>
+      <a href="https://github.com/SiddharthAgr/ibm_hackethon_4play"><img src="https://img.shields.io/badge/VIEW%20REPO-7C83FF?style=for-the-badge&logo=github&logoColor=white" alt="VIEW%20REPO"/></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/btech1056625-dev/terraform-kubernetes-observability-platform">
-        <img src="./assets/projects/terraform-k8s-observability.svg" width="100%" alt="Terraform Kubernetes Observability Platform"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>📈 Terraform K8s Observability Platform</h3>
+      <sub><i>Infrastructure as code, fully observable</i></sub><br/><br/>
+      Terraform-provisioned monitoring stack with metrics, dashboards and alerting running on Kubernetes.<br/><br/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/><br/><br/>
+      <a href="https://github.com/btech1056625-dev/terraform-kubernetes-observability-platform"><img src="https://img.shields.io/badge/VIEW%20REPO-7C83FF?style=for-the-badge&logo=github&logoColor=white" alt="VIEW%20REPO"/></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/btech1056625-dev/url_shortner">
-        <img src="./assets/projects/url-shortener-event-pipeline.svg" width="100%" alt="URL Shortener and Event Pipeline"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🔗 URL Shortener + Event Pipeline</h3>
+      <sub><i>Event-driven on LocalStack AWS</i></sub><br/><br/>
+      URL shortener with a notification pipeline, emulated on LocalStack and provisioned with Terraform.<br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/LocalStack-4D0DC8?style=flat-square"/><br/><br/>
+      <a href="https://github.com/btech1056625-dev/url_shortner"><img src="https://img.shields.io/badge/VIEW%20REPO-7C83FF?style=for-the-badge&logo=github&logoColor=white" alt="VIEW%20REPO"/></a>
     </td>
   </tr>
 </table>
